@@ -1,1 +1,0 @@
-Sección destinada a la base de datos y la data general de la aplicación
